@@ -25,8 +25,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-서버는 기본적으로 `:8004` 포트에서 `/chat/stream`, `/upload-doc` 등의 엔드포인트를 제공합니다.
-
 ## 서비스 연동
 
 별도의 공개 엔드포인트는 없으며, 내부 전용(localhost) 서버입니다.
